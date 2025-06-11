@@ -11,3 +11,4 @@ conn = pymysql.connect(
       password="123@Ntut",
       database="company2")
 ``` 
+*Google Colab Link: https://colab.research.google.com/drive/1a2WZrQa8zw2morkPeYfd-tSXrV7kNIGk?usp=sharing
